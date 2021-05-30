@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "inquirer": "^8.1.0",
+    "jest": "^27.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtstockard/Note_Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jtstockard/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/jtstockard/Note_Taker#readme"
+}
