@@ -6,8 +6,8 @@
   
  A Express.js application that launches from heroku to populate a local port for notes to be stored. The the heroku link can be found [here](https://git.heroku.com/note-taker-jtstockard.git)
 
-Below are some screenshots for the application mentioned <br />
-![Screenshots](./src/example.gif)
+Below is a gif for the application mentioned <br />
+![Gif](./public/assets/images/example.gif)
 
 ## Table of Contents
 
